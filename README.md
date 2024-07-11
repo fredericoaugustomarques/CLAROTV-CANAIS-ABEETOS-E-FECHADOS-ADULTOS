@@ -5,6 +5,8 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 http://bdta.pro/3134767531/5CqmEyGNTt/72598.m3u8
 #EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th/id/OIP.OdwtTYJOW2ljKZ6maVSkwQHaGe?pid=ImgDet&w=203&h=177&c=7",REDE GLOBO
 http://bdta.pro/3134767531/5CqmEyGNTt/71991.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th/id/OIP.OdwtTYJOW2ljKZ6maVSkwQHaGe?pid=ImgDet&w=203&h=177&c=7",REDE GLOBO
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/globominas/tracks-v1a1/mono.m3u8?md5=O46g2ml-cABVIDdzxHMT1g&expires=1720775575
 #EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.cYbQUSiAcpDOnANIkTOrvQHaHG&w=255&h=244&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",RECORDTV 
 http://bdta.pro/3134767531/5CqmEyGNTt/72594.m3u8
 #EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.kGiM4eq9apHFFnhAgdmkFwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TVGAZETA 
